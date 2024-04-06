@@ -1261,7 +1261,7 @@ export const extraRpcs = {
       "https://arbitrum.rpc.subquery.network/public"
     ],
   },
-  421613: {
+  42161: {
     rpcs: [
       {
         url: "https://endpoints.omniatech.io/v1/arbitrum/goerli/public",
